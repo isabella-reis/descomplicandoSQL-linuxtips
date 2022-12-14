@@ -29,7 +29,7 @@ SELECT *,
        DATEDIFF(dtEstimativaEntrega, dtEntregue) AS qtDiasPromessaEntrega
 
 FROM silver_olist.pedido
-
+https://dbc-69530039-a6fd.cloud.databricks.com/?o=2438955430678710#
 LIMIT 10
 
 -- COMMAND ----------
